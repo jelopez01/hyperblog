@@ -3,6 +3,13 @@ body{
     text-align: left;
     font-family: "Courier";
 }
+#cabecera{
+    background: #88F;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 #container{
     width: 70%;
     padding: 1em;
@@ -13,4 +20,7 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+#post{
+    padding: 1em;
 }
